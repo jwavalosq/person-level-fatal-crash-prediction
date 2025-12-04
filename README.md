@@ -11,4 +11,4 @@ Jupyter Notebooks (Python):
   - FARS2023_10Seed_Comparison.ipynb
 
 Dataset was obtained from the following link: https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/2023/National/
-  - See FARS2023NationalCSV
+  - See FARS2023NationalCSV.zip
