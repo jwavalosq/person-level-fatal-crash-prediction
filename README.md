@@ -9,3 +9,6 @@ FARS2023_FinalModels_699_JA: Model definition and results for 1 random seed.
 Jupyter Notebooks (Python): 
   - FARS2023_FinalModels_699_JWAQ.ipynb
   - FARS2023_10Seed_Comparison.ipynb
+
+Dataset was obtained from the following link: [FARS2023NationalCSV]([url](https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/2023/National/))
+  - See FARS2023NationalCSV
